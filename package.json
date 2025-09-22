@@ -31,7 +31,7 @@
     "@arcjet/env": "1.0.0-beta.11",
     "@arcjet/ip": "1.0.0-beta.11",
     "@arcjet/next": "1.0.0-beta.11",
-    "@fontsource-variable/figtree": "5.2.8",
+    "@fontsource-variable/figtree": "5.2.10",
     "@fontsource/ibm-plex-mono": "5.2.6",
     "@hookform/resolvers": "5.1.1",
     "@nosecone/next": "1.0.0-beta.11",
